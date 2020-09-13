@@ -1,0 +1,8 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div style="background-color: #D8BFD8" class="container-fluid">
+  <div class="card-body">
+    <h5 class="card-title">Desenvolvido na aula de POO</h5>
+    <p class="card-text"><small>Profº Ricardo Pupo Larguesa</small></p>
+  </div>
+</div>
